@@ -160,5 +160,6 @@ cython_debug/
 #.idea/
 
 
-# data folder
-data/
+# main data files
+data/suomi24-2001-2017-vrt-v1-2.zip
+data/suomi24-2018-2020-vrt-beta.zip
