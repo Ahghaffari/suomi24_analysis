@@ -23,7 +23,7 @@ This script is designed to investigate threads that generate substantial discuss
 
 
 #section 8
-The script involves several steps, including grouping threads and related discussions by year, conducting topic modeling using Latent Dirichlet Allocation (LDA) with two topics and five keywords per topic, and storing the results in a SQLite database. The script also exports the results to an Excel file for easy access and visualization. The tokenize_and_preprocess function was introduced for text preprocessing, incorporating tokenization, lowercase conversion, punctuation removal, and stopword elimination. 
+ This script covers several key tasks, including data preprocessing, topic modeling using Latent Dirichlet Allocation (LDA), data storage in an SQLite database, and export of results to an Excel file. The code ensures the proper creation of the database table and handles year-wise topic modeling, with each year's results stored in the database. Finally, the script extracts the data from the database and exports it into an Excel file. To address potential module-related errors, necessary packages like "openpyxl" and others should be installed in your Python environment, ensuring a successful execution of the code. The tokenize_and_preprocess function was introduced for text preprocessing, incorporating tokenization, lowercase conversion, punctuation removal, and stopword elimination. 
 
 
 
