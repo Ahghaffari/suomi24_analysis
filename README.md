@@ -22,6 +22,8 @@ section 7:
 This script is designed to investigate threads that generate substantial discussion within each year of a given dataset. It accomplishes this by first tokenizing and counting the number of tokens in the discussion part of each thread's title. The result is a table showing the yearly evolution of discussion tokens. It then identifies the top 5 ranked threads with the most discussion tokens in each year and records this information. However, the distinguishing feature of this script is that it enables manual exploration of the top threads. After identifying these threads, the script facilitates the process of reading and manually recording perceptions and understandings of the content within each of these threads. This human-augmented analysis is essential for gaining insights into the most engaging and important discussions across different years, making it a valuable tool for content understanding and trend monitoring.
 
 
+#section 8
+The script involves several steps, including grouping threads and related discussions by year, conducting topic modeling using Latent Dirichlet Allocation (LDA) with two topics and five keywords per topic, and storing the results in a SQLite database. The script also exports the results to an Excel file for easy access and visualization. The tokenize_and_preprocess function was introduced for text preprocessing, incorporating tokenization, lowercase conversion, punctuation removal, and stopword elimination. 
 
 
 
