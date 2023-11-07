@@ -1,0 +1,226 @@
+Keyword: ilmastonmuutos
+Year: 2001
+
+Year: 2002
+alkuperäin: 1
+jutu: 1
+tiede: 1
+osasto: 1
+
+Year: 2003
+tiedemieh: 1
+uskoi: 1
+katastrofaalin: 1
+seuraam: 1
+nykyis: 1
+energiankäyttötav: 1
+usa: 1
+hyväksy: 1
+tosiasia: 1
+seurau: 1
+
+Year: 2004
+tuotantovaihtoehdo: 4
+n: 3
+kasvihuoneilmiö: 3
+globaal: 2
+vaaratekij: 2
+yle: 2
+energiantuotano: 2
+terveysvaikutuks: 2
+energia: 2
+energiantuotanto: 2
+
+Year: 2005
+ihmiskun: 9
+jos: 7
+polttoain: 6
+runsaamp: 6
+käytö: 6
+suistai: 6
+katastrof: 6
+maailm: 6
+ihmis: 5
+uhk: 5
+
+Year: 2006
+ilmasto: 14
+vakav: 12
+jos: 11
+sinä: 11
+aiheuttam: 10
+tehd: 10
+ihmis: 9
+ihmiskun: 9
+kun: 8
+maailm: 7
+
+Year: 2007
+ihmis: 68
+on: 37
+ilmasto: 35
+suome: 34
+uhk: 30
+ilmastonmuutoks: 28
+aiheuttam: 26
+maailm: 26
+jos: 25
+tot: 20
+
+Year: 2008
+ihmis: 62
+suome: 46
+aiheuttam: 37
+on: 29
+ilmasto: 28
+uhk: 27
+ilmastonmuutoks: 22
+maailm: 22
+maapalo: 21
+tosias: 21
+
+Year: 2009
+ihmis: 73
+aiheuttam: 39
+on: 36
+ilmasto: 21
+tot: 21
+maailm: 20
+suome: 19
+ilmastonmuutoks: 18
+nyt: 17
+uskonto: 17
+
+Year: 2010
+näkyy: 63
+ihmis: 57
+ilmastonmuutoks: 47
+mite: 39
+ilmasto: 33
+on: 31
+aiheuttam: 29
+tot: 23
+kylm: 22
+talv: 21
+
+Year: 2011
+näkyy: 98
+mite: 38
+ihmis: 33
+ilmasto: 32
+näin: 30
+ilmastonmuutoks: 30
+on: 21
+aiheuttam: 19
+palst: 17
+suome: 16
+
+Year: 2012
+näkyy: 65
+näin: 40
+ihmis: 20
+aiheuttam: 19
+uhk: 16
+suome: 15
+gt: 15
+ilmasto: 14
+on: 12
+tot: 12
+
+Year: 2013
+näkyy: 93
+näin: 37
+sil: 27
+ilmasto: 24
+kiihtyy: 20
+ihmis: 18
+kiihtym: 18
+eten: 15
+suome: 15
+valvontayhteiskun: 15
+
+Year: 2014
+näkyy: 99
+näin: 54
+ilmasto: 36
+suome: 27
+valvontayhteiskun: 25
+lämpenemin: 24
+ihmis: 23
+tot: 23
+aiheuttam: 20
+aiheut: 19
+
+Year: 2015
+näkyy: 51
+näin: 28
+suome: 19
+on: 16
+ilmasto: 12
+niin: 11
+saa: 11
+maailm: 11
+lämpenemin: 10
+aiheut: 10
+
+Year: 2016
+näkyy: 26
+ihmis: 23
+on: 20
+suome: 18
+ilmastonmuutoks: 17
+näin: 16
+aiheuttam: 15
+uhk: 14
+ydinvoim: 12
+maapalo: 11
+
+Year: 2017
+näkyy: 28
+aiheuttam: 26
+ihmis: 25
+suome: 16
+näin: 15
+ihmist: 12
+ilmasto: 12
+maailm: 11
+ilmastonmuutoks: 9
+aiheut: 9
+
+Year: 2018
+suome: 26
+on: 24
+alku: 21
+uhk: 18
+ihmis: 18
+tot: 18
+nyt: 18
+paha: 16
+näkyy: 15
+jos: 14
+
+Year: 2019
+ihmis: 51
+suome: 44
+ilmastonmuutoks: 36
+maailm: 32
+uhk: 29
+on: 29
+ilmasto: 28
+nyt: 26
+maapalo: 25
+laps: 23
+
+Year: 2020
+ilmasto: 32
+ihmis: 27
+on: 22
+koro: 21
+talv: 20
+suome: 18
+aiheuttam: 15
+syynä: 14
+eten: 13
+ilmastonmuutoks: 13
+
+====================================
