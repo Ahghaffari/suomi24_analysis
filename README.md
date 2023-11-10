@@ -1,6 +1,6 @@
 # Suomi24 Corpus Analysis
  
-In this project the Suomi24 corpus datset from https://www.kielipankki.fi/corpora/suomi24/ was used. The parser of data was implemented and it generates a csv file for each year containing main threads, tiles, and datetimes. Then some corpus analysis tasks implemented to explore this dataset and to test the Heap`s and Zipf`s law on this corpus. To use the code for the preprocessing part use the dataset_prepare.ipynb code. For processing each years data and see the implemented tasks use the tasks.ipynb code.
+In this project the Suomi24 corpus datset from https://www.kielipankki.fi/corpora/suomi24/ was used. The parser of data was implemented and it generates a csv file for each year containing main threads, tiles, and datetimes. Then some corpus analysis tasks implemented to explore this dataset and to test the Heaps' law and Zipfs' law on this corpus. To use the code for the preprocessing part use the dataset_prepare.ipynb code. For processing each years data and see the implemented tasks use the tasks.ipynb code.
 
 
 ### section 3:
